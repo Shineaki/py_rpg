@@ -1,0 +1,12 @@
+[project]
+name = "py-rpg"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "numpy>=2.4.6",
+    "pygame-ce>=2.5.7",
+    "pyinstaller>=6.21.0",
+    "pytmx>=3.32",
+]

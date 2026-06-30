@@ -1,0 +1,74 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map_1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "complete.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1.5
+        },
+        "floor.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "high_walls.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 8
+        },
+        "map_01.tmx": {
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 124.75,
+                "y": 84.625
+            }
+        },
+        "map_1.tmx": {
+            "scale": 2.3618055555555557,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 121.72890326374593,
+                "y": 60.33519553072625
+            }
+        },
+        "walls.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/home/adam/workspace/py_rpg/assets/dungeon",
+    "map.height": 12,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 20,
+    "openFiles": [
+        "complete.tsx",
+        "high_walls.tsx",
+        "map_1.tmx"
+    ],
+    "project": "pyrpg.tiled-project",
+    "recentFiles": [
+        "complete.tsx",
+        "high_walls.tsx",
+        "map_1.tmx",
+        "map_01.tmx",
+        "walls.tsx",
+        "floor.tsx",
+        ":/automap-tiles.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
